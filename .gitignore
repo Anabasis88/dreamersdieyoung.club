@@ -1,0 +1,13 @@
+# Git Ignore Configuration File
+# See https://git-scm.com/docs/gitignore for more details
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# OS generated directories
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+/__MACOSX
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# OS generated files
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+.DS_Store
+Thumbs.db
